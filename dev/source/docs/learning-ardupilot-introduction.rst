@@ -107,6 +107,7 @@ board types are currently available:
 -  make apm2 - the APM2 board
 -  make px4-v1 - the PX4v1
 -  make px4-v2 - the Pixhawk (and `Arsov AUAV-X2 <http://www.auav.co/product-p/auavx2.htm>`__)
+-  make px4-v4 - the `PixRacer <https://pixhawk.org/modules/pixracer>`__
 -  make pxf - the BBB+PXF cape combination
 -  make navio - the RaspberryPi+NavIO cape combination
 -  make linux - a generic Linux build
